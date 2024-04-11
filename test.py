@@ -1,3 +1,1 @@
-print("Hola monkey")
-
-#kem cho
+print("Hola")
